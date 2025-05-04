@@ -333,27 +333,6 @@ img, svg {
     left: 69%;
 }
 
-.main .katharagama {
-    position: absolute;
-    top: 510px;
-    right: 40%;
-    left: 60%;
-}
-
-.main .nuwaraeliya {
-    position: absolute;
-    top: 400px;
-    right: 48%;
-    left: 52%;
-}
-
-.main .anuradhapura {
-    position: absolute;
-    top: 197px;
-    right: 61%;
-    left: 39%;
-}
-
 
 /* .main {
     width: 1920px;
@@ -427,7 +406,7 @@ img, svg {
 
 body {
     /* Created with https://www.css-gradient.com */
-    background: #ffffff;
+    /* background: #ffffff; */
     /* background: -webkit-radial-gradient(top right, #23EC55, #2D51C1);
     background: -moz-radial-gradient(top right, #23EC55, #2D51C1);
     background: radial-gradient(to bottom left, #23EC55, #2D51C1); */
@@ -694,25 +673,10 @@ body {
     right: 77%;
     left: 23%;
     }
+}
+.logo-ico {
+  width: 150px;
+  height: 150px;
+  
 
-    .main .katharagama {
-    position: absolute;
-    top: 350px;
-    right: 38%;
-    left: 62%;
-    }
-
-    .main .nuwaraeliya {
-    position: absolute;
-    top: 280px;
-    right: 48%;
-    left: 52%;
-    }
-
-    .main .anuradhapura {
-    position: absolute;
-    top: 130px;
-    right: 61%;
-    left: 39%;
-    }
 }
