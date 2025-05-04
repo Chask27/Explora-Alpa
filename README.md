@@ -15,6 +15,3 @@
 &ensp; *VisitAltoParana.py es tu recurso ideal para planificar un viaje a Alto Paraná, Paraguay, en 2025. Este proyecto es el resultado del esfuerzo de un grupo de estudiantes universitarios de la Universidad Nacional del Este (UNE) bajo el módulo de Desarrollo de Aplicaciones Web.  
 Nuestro sitio web ofrece una amplia gama de información sobre las principales atracciones, actividades de aventura, eventos próximos, un blog de destinos turísticos populares y productos tradicionales como artesanías, yerba mate, comidas típicas, bienes industriales, entre otros. Ya sea que busques relajarte en la naturaleza, explorar cascadas impresionantes o descubrir la cultura local, VisitAltoParana.py tiene todo lo que necesitas. ¡Estamos emocionados de ayudarte a planificar un viaje inolvidable a Alto Paraná!*<br/>
 
-&ensp;&ensp;&ensp;:point_right: Link to the Repository: <a href="https://github.com/damithadev/Visit-AltoParana-Web"> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<a/>
-<p align="right"><a href="#top">[Back to Top:arrow_up:]</a></p>
-
