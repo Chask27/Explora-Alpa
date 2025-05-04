@@ -1572,3 +1572,13 @@ a .news__item:hover {
 
 
 /*# sourceMappingURL=style.css.map */
+
+.map .image img {
+  border-radius: 10px;
+  width: 500px;
+}
+.image-aventura {
+  width: 500px;
+  height: 100%;
+
+}

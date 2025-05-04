@@ -305,9 +305,8 @@ img, svg {
 .main .kandy {
     position: absolute;
     top: 350px;
-    
-    right: 52%;
-    left: 48%;
+    right: 30%;
+    left: 66%;
    
 }
 
@@ -315,23 +314,23 @@ img, svg {
 
 .main .trinco {
     position: absolute;
-    top: 158px;
+    top: 290px;
     right: 46%;
-    left: 54%;
+    left: 66%;
 }
 
 .main .galle {
     position: absolute;
-    top: 570px;
+    top: 319px;
     right: 68%;
-    left: 32%;
+    left: 65%;
 }
 
 .main .colombo {
     position: absolute;
-    top: 425px;
+    top: 365px;
     right: 77%;
-    left: 23%;
+    left: 69%;
 }
 
 .main .katharagama {
@@ -396,9 +395,9 @@ img, svg {
 
 .main .jaffna {
     position: absolute;
-    top: 30px;
-    right: 70%;
-    left: 30%;
+    top: 322px;
+    right: 500%;
+    left: 69%;
 }
 
 
@@ -670,8 +669,7 @@ body {
     }  
     .main .kandy {
     position: absolute;
-    top: 220px;
-    
+    top: 520px;
     right: 52%;
     left: 48%;
    
