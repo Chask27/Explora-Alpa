@@ -61,8 +61,6 @@ window.addEventListener("scroll", () => {
 })
 
 
-
-
 // -----------------------------------------------------------------review slider---------------------------------------
 var swiper = new Swiper(".review-slider", {
     loop:true, 
@@ -125,18 +123,7 @@ var swiper = new Swiper(".clients-slider", {
         },
     },
 });
-
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 // ----------------------------------products homepage js-------------------------------------------
 
