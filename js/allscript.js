@@ -36,11 +36,6 @@ window.onload = () =>{
     }
 };
 
-
-
-
-
-
 // -------------------------------------------to top scroller------------------------------------
 
 const toTop = document.querySelector(".to-top");
@@ -52,9 +47,6 @@ window.addEventListener("scroll", () => {
     toTop.classList.remove("active");
   }
 })
-
-
-
 
 
 
