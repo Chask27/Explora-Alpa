@@ -1,0 +1,16 @@
+{
+  "name": "explora-alpa-main",
+  "version": "1.0.0",
+  "description": "<div id=\"top\"></div> <h1 align=\"center\"> 🏞️ Proyecto Web Explora ALPA 🇵🇾</h1> <p align=\"center\"><i> 🗺️ Un blog para viajeros que planean su visita a la hermosa región de Alto Paraná, Paraguay 🗓️</i></p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
